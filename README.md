@@ -1,6 +1,6 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&pause=1000&color=FFFFFF&width=435&lines=Hola!++Soy+Alan!++%F0%9F%91%8B;Estudiante+de+Ciberseguridad)](https://git.io/typing-svg)
 
-💬 **Yo**: Estudio ciberseguridad. Purple team. En busqueda de trabajo como SOC1 
+💬 **Yo**: Estudio ciberseguridad. Purple team. En busqueda de trabajo como SOC1 o pentesting JR 
 
 🌱 **Projectos**:
 
