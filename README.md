@@ -3,7 +3,7 @@
 💬 **Yo**: Estudio ciberseguridad. Red TEAM, en busqueda de trabajo como pentester junior. 
 
 🌱 **Projectos**:
-- dnscanner: escaner para reconocimiento
+- dnscanner: escaner de dominios para reconocimiento
 - CS50 path: Documento mis pasos aprendiendo python en el curso de Harvard
 - Canal sobre seguridad: Enfocado a ciberseguridad básica;.
 - Cheatsheets
