@@ -3,7 +3,7 @@
 💬 **Yo**: Estudio ciberseguridad. Red TEAM, en busqueda de trabajo como pentester junior. 
 
 🌱 **Projectos**:
-- dnscanner: escaner de dominios para reconocimiento
+- dScanner: escaner de dominios para reconocimiento
 - Canal sobre seguridad: Enfocado a ciberseguridad básica;.
 - Cheatsheets
 
